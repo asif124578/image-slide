@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+.slider {
+  padding: 20px;
+}
+.slider img {
+  width: 90%;
+  max-width: 600px;
+  border-radius: 10px;
+}
+.slider p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 15px;
+}
